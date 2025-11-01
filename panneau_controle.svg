@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="305mm"
+   height="457mm"
+   viewBox="0 0 1152.7559 1727.2441"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="panneau_controle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.6953078"
+     inkscape:cx="491.86849"
+     inkscape:cy="400.54203"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.130167;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="196.53543"
+         height="7.5590553"
+         x="92.862991"
+         y="225.06941" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.130166;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-3"
+         width="196.53543"
+         height="7.5590553"
+         x="555.71362"
+         y="225.06941" />
+      <text
+         xml:space="preserve"
+         style="font-size:30.2362px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+         x="300.46704"
+         y="241.39815"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="300.46704"
+           y="241.39815"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans'">FEUX / LUMIÈRES</tspan></text>
+    </g>
+    <g
+       id="g3"
+       transform="translate(-19.527894)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.139822;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-35"
+         width="226.77165"
+         height="7.5590553"
+         x="112.39079"
+         y="559.80176" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.139822;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-3-6"
+         width="226.77165"
+         height="7.5590553"
+         x="545.00531"
+         y="559.80176" />
+      <text
+         xml:space="preserve"
+         style="font-size:30.2362px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+         x="355.65677"
+         y="576.13049"
+         id="text2-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-9"
+           x="355.65677"
+           y="576.13049"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans'">NAVIGATION</tspan></text>
+    </g>
+    <g
+       id="g4">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.149549;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-35-4"
+         width="264.56693"
+         height="7.5590553"
+         x="92.8629"
+         y="1122.7006" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.149829;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-3-6-7"
+         width="264.56693"
+         height="7.5590553"
+         x="487.68378"
+         y="1122.7006" />
+      <text
+         xml:space="preserve"
+         style="font-size:30.2362px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+         x="369.17838"
+         y="1139.0293"
+         id="text2-2-8"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-4"
+           x="369.17838"
+           y="1139.0293"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans'">CABINE</tspan></text>
+    </g>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="201.20969"
+       cy="430.11212"
+       r="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="179.58076"
+       y="378.96552"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="179.58076"
+         y="378.96552">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="172.83372"
+       y="503.25671"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="172.83372"
+         y="503.25671">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="147.83127"
+       y="318.87708"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="147.83127"
+         y="318.87708">CABINE</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8"
+       cx="422.556"
+       cy="430.11212"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="400.92706"
+       y="378.96552"
+       id="text3-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-6"
+         x="400.92706"
+         y="378.96552">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="394.18002"
+       y="503.25671"
+       id="text4-1"><tspan
+         sodipodi:role="line"
+         id="tspan4-1"
+         x="394.18002"
+         y="503.25671">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="349.97729"
+       y="318.87708"
+       id="text5-5"><tspan
+         sodipodi:role="line"
+         id="tspan5-9"
+         x="349.97729"
+         y="318.87708">CHAMBRE</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-0"
+       cx="643.90228"
+       cy="430.11209"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="622.27338"
+       y="378.96552"
+       id="text3-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-0"
+         x="622.27338"
+         y="378.96552">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="615.52631"
+       y="503.25671"
+       id="text4-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-4"
+         x="615.52631"
+         y="503.25671">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="643.32648"
+       y="299.80228"
+       id="text5-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-4"
+         x="643.32648"
+         y="299.80228">FEU DE</tspan><tspan
+         sodipodi:role="line"
+         x="643.32648"
+         y="337.59753"
+         id="tspan6">HUNE</tspan></text>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-9-4"
+       cx="276.80127"
+       cy="768.20789"
+       r="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="179.58076"
+       y="717.06305"
+       id="text3-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-60"
+         x="179.58076"
+         y="717.06305">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="172.83372"
+       y="841.35425"
+       id="text4-6"><tspan
+         sodipodi:role="line"
+         id="tspan4-2"
+         x="172.83372"
+         y="841.35425">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="169.56355"
+       y="637.89984"
+       id="text5-6"><tspan
+         sodipodi:role="line"
+         id="tspan5-1"
+         x="169.56355"
+         y="637.89984">VHF</tspan><tspan
+         sodipodi:role="line"
+         x="169.56355"
+         y="675.69507"
+         id="tspan9">HI-FI</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-8-7"
+       cx="498.14551"
+       cy="768.20789"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="400.92706"
+       y="717.06305"
+       id="text3-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-9"
+         x="400.92706"
+         y="717.06305">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="394.18002"
+       y="841.35425"
+       id="text4-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-0"
+         x="394.18002"
+         y="841.35425">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="371.24451"
+       y="637.72266"
+       id="text5-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-3"
+         x="371.24451"
+         y="637.72266">FEU DE</tspan><tspan
+         sodipodi:role="line"
+         x="371.24451"
+         y="675.51788"
+         id="tspan8">ROUTE</tspan></text>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-9"
+       cx="201.20969"
+       cy="768.20966"
+       r="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-8"
+       cx="422.556"
+       cy="768.20966"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-0-7"
+       cx="643.90228"
+       cy="768.20966"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-0-7-7"
+       cx="719.49353"
+       cy="768.20789"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="622.27338"
+       y="717.06305"
+       id="text3-5-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-0-9"
+         x="622.27338"
+         y="717.06305">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="615.52631"
+       y="841.35425"
+       id="text4-1-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-4-2"
+         x="615.52631"
+         y="841.35425">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="643.32648"
+       y="637.89984"
+       id="text5-5-4-8"><tspan
+         sodipodi:role="line"
+         x="643.32648"
+         y="637.89984"
+         id="tspan6-7">POMPE</tspan><tspan
+         sodipodi:role="line"
+         x="643.32648"
+         y="675.69507"
+         id="tspan7">EAU DE MER</tspan></text>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-9-6"
+       cx="201.20969"
+       cy="993.56372"
+       r="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="179.58076"
+       y="942.41711"
+       id="text3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-60-6"
+         x="179.58076"
+         y="942.41711">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="172.83372"
+       y="1066.7083"
+       id="text4-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan4-2-6"
+         x="172.83372"
+         y="1066.7083">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="122.28258"
+       y="901.25385"
+       id="text5-6-1"><tspan
+         sodipodi:role="line"
+         x="122.28258"
+         y="901.25385"
+         id="tspan9-7">BOUSSOLE</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-8-9"
+       cx="422.556"
+       cy="993.56372"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="400.92706"
+       y="942.41711"
+       id="text3-5-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-9-0"
+         x="400.92706"
+         y="942.41711">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="394.18002"
+       y="1066.7083"
+       id="text4-1-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-0-3"
+         x="394.18002"
+         y="1066.7083">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="392.88821"
+       y="901.25385"
+       id="text5-5-2-7"><tspan
+         sodipodi:role="line"
+         x="392.88821"
+         y="901.25385"
+         id="tspan8-9">GPS</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-0-7-2"
+       cx="643.90228"
+       cy="993.56372"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="622.27338"
+       y="942.41711"
+       id="text3-5-3-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-0-9-8"
+         x="622.27338"
+         y="942.41711">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="615.52631"
+       y="1066.7083"
+       id="text4-1-4-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-4-2-7"
+         x="615.52631"
+         y="1066.7083">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="644.27136"
+       y="901.25385"
+       id="text5-5-4-8-3"><tspan
+         sodipodi:role="line"
+         x="644.27136"
+         y="901.25385"
+         id="tspan7-1">AUTO-PILOTE</tspan></text>
+    <g
+       id="g11"
+       transform="translate(4.7823414e-5)">
+      <g
+         id="g10">
+        <circle
+           style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-3"
+           cx="256.16977"
+           cy="161.16277"
+           r="22.63002" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+           x="167.55023"
+           y="109.54728"
+           id="text5-1"><tspan
+             sodipodi:role="line"
+             id="tspan5-2"
+             x="167.55023"
+             y="109.54728">LUMINOSITÉ</tspan></text>
+      </g>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.116061;stroke-opacity:1"
+         id="rect2"
+         width="223.63197"
+         height="110.24615"
+         x="451.68668"
+         y="78.367783" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="246.25392"
+       y="1284.5535"
+       id="text3-5-7-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-9-0-6"
+         x="246.25392"
+         y="1284.5535">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="239.50688"
+       y="1408.8446"
+       id="text4-1-2-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-0-3-2"
+         x="239.50688"
+         y="1408.8446">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="267.30707"
+       y="1204.3842"
+       id="text5-5-2-7-0"><tspan
+         sodipodi:role="line"
+         x="267.30707"
+         y="1204.3842"
+         id="tspan13">PRISE</tspan><tspan
+         sodipodi:role="line"
+         x="267.30707"
+         y="1242.1794"
+         id="tspan14">ÉLECTRIQUE</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-8-9-1"
+       cx="267.88367"
+       cy="1335.7001"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8-0-7-2-1"
+       cx="577.22992"
+       cy="1335.7001"
+       rx="22.630018"
+       ry="22.63002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="555.60022"
+       y="1284.5535"
+       id="text3-5-3-5-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-0-9-8-5"
+         x="555.60022"
+         y="1284.5535">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="548.85315"
+       y="1408.8446"
+       id="text4-1-4-2-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-4-2-7-7"
+         x="548.85315"
+         y="1408.8446">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
+       x="576.65332"
+       y="1224.1381"
+       id="text5-5-4-8-3-6"><tspan
+         sodipodi:role="line"
+         x="576.65332"
+         y="1224.1381"
+         id="tspan7-1-5">EAU DOUCE</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6"
+       cx="719.49353"
+       cy="993.56372"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse7"
+       cx="498.14551"
+       cy="993.56372"
+       rx="22.630018"
+       ry="22.63002" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="circle7"
+       cx="276.80127"
+       cy="993.56372"
+       r="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse8"
+       cx="343.47589"
+       cy="1335.7001"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse9"
+       cx="652.81891"
+       cy="1335.7001"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse10"
+       cx="719.49353"
+       cy="430.11209"
+       rx="22.630018"
+       ry="22.63002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11"
+       cx="498.14551"
+       cy="430.11212"
+       rx="22.630018"
+       ry="22.63002" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
+       id="circle11"
+       cx="276.80127"
+       cy="430.11212"
+       r="22.63002" />
+  </g>
+</svg>
