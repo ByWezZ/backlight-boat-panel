@@ -15,3 +15,13 @@ Voici la liste de tous les composants utilisé pour la réalisation de ce pannea
 - 1x [Plaque Plexiglass (PMMA) extrudé **opaque** 2mm](https://plexiglasssurmesure.fr/plaquess-en-plexiglass/opaque/)
 
 Je recommande d'acheter 2 plaques Plexiglass au cas où vous devez refaire les découpes/gravures laser.
+
+## Les différentes parties du projet
+
+Ce projet est décomposables en plusieurs parties, les voici :
+
+- Panneau rétroéclairé, la réalisation du panneau rétroéclairé est disponible dans le sous-dossier **[backlight-panel/ReadME.md](./backlight-panel/ReadME.md)**
+
+- Le code arduino et l'éléctronique associé pour le calcul de la puissance, l'affichage sur un afficheur e-Ink/e-Paper et la gestion de la luminosité du panneau
+
+- Le schéma éléctrique

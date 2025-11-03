@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.6953078"
-     inkscape:cx="491.86849"
-     inkscape:cy="400.54203"
+     inkscape:zoom="1.3906156"
+     inkscape:cx="289.79971"
+     inkscape:cy="177.97873"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g10" />
   <defs
      id="defs1" />
   <g
@@ -494,22 +494,26 @@
        transform="translate(4.7823414e-5)">
       <g
          id="g10">
-        <circle
-           style="fill:none;stroke:#ff0000;stroke-width:0.0942914;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-3"
-           cx="256.16977"
-           cy="161.16277"
-           r="22.63002" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
-           x="167.55023"
-           y="109.54728"
-           id="text5-1"><tspan
-             sodipodi:role="line"
-             id="tspan5-2"
+        <g
+           id="g1"
+           transform="translate(0,9.1496068)">
+          <circle
+             style="fill:none;stroke:#ff0000;stroke-width:0.0479314;stroke-dasharray:none;stroke-opacity:1"
+             id="path1-3"
+             cx="256.16977"
+             cy="156.01315"
+             r="11.503593" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2362px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.188976;stroke-dasharray:none;stroke-opacity:1"
              x="167.55023"
-             y="109.54728">LUMINOSITÉ</tspan></text>
+             y="109.54728"
+             id="text5-1"><tspan
+               sodipodi:role="line"
+               id="tspan5-2"
+               x="167.55023"
+               y="109.54728">LUMINOSITÉ</tspan></text>
+        </g>
       </g>
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.116061;stroke-opacity:1"
